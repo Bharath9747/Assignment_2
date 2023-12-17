@@ -8,7 +8,6 @@ version = '1.0-SNAPSHOT'
 ext {
     javaMainClass = "org.example.MainRunner"
 }
-
 application {
     mainClassName = javaMainClass
 }
